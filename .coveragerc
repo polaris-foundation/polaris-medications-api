@@ -1,0 +1,18 @@
+[paths]
+source =
+  dhos_medications_api/*
+
+[report]
+
+omit =
+  **/__init__.py
+  **/__main__.py
+  dhos_medications_api/app.py
+  dhos_medications_api/autoapp.py
+  dhos_medications_api/blueprint_development/*
+  dhos_medications_api/test_data/generate_test_data.py
+
+fail_under = 90
+
+show_missing = true
+skip_covered = true

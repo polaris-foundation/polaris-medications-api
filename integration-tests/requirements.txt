@@ -1,0 +1,11 @@
+behave==1.*
+black==20.8b1
+dhos-lib==1.*
+environs==4.*
+faker==4.*
+isort
+mypy
+python-jose==3.*
+pyyaml==5.*
+reportportal-behave-client==1.*
+requests==2.*

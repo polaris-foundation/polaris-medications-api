@@ -1,0 +1,67 @@
+version: "3.7"
+x-environment: &COMMON_ENVIRONMENT
+  ENVIRONMENT: DEVELOPMENT
+  ALLOW_DROP_DATA: "true"
+  LOG_LEVEL: INFO
+  LOG_FORMAT: COLOUR
+
+services:
+  dhos-medications-integration-tests:
+    container_name: "dhos-medications-integration-tests"
+    build:
+      context: .
+      args:
+        - PIP_EXTRA_INDEX_URL
+    environment:
+      <<: *COMMON_ENVIRONMENT
+      BEHAVE_ARGS: ${BEHAVE_ARGS:-}
+      REPORT_PORTAL_URL: ${REPORT_PORTAL_URL:-}
+      REPORT_PORTAL_TOKEN: ${REPORT_PORTAL_TOKEN:-}
+      REPORT_PORTAL_PROJECT: ${REPORT_PORTAL_PROJECT:-}
+      ENVIRONMENT: ${ENVIRONMENT:-}
+      RELEASE: ${RELEASE:-}
+    command: >
+      bash -c "behave --no-capture --no-logcapture ${BEHAVE_ARGS:-}"
+    depends_on:
+      "dhos-medications-api":
+        condition: service_healthy
+
+  dhos-medications-api:
+    container_name: "dhos-medications-api"
+    build:
+      context: ../
+      args:
+        - GEMFURY_DOWNLOAD_KEY
+    environment:
+      <<: *COMMON_ENVIRONMENT
+      DATABASE_HOST: dhos-medications-api-db
+      DATABASE_PORT: 5432
+      DATABASE_USER: dhos-medications-api
+      DATABASE_PASSWORD: dhos-medications-api
+      DATABASE_NAME: dhos-medications-api
+    ports:
+      - "5000:5000"
+    healthcheck:
+      test: curl -f http://localhost:5000/running || false
+      interval: 3s
+      retries: 40
+      start_period: 5s
+    command: >
+      bash -c "flask db upgrade && python -m dhos_medications_api"
+    depends_on:
+      "dhos-medications-api-db":
+        condition: service_healthy
+
+  dhos-medications-api-db:
+    container_name: "dhos-medications-api-db"
+    image: docker.io/postgres
+    environment:
+      <<: *COMMON_ENVIRONMENT
+      POSTGRES_USER: dhos-medications-api
+      POSTGRES_PASSWORD: dhos-medications-api
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER}"]
+      interval: 2s
+      timeout: 5s
+      retries: 20
+      start_period: 5s

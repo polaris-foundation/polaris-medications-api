@@ -1,0 +1,18 @@
+## Dev values
+database:
+  host: uk-nonprod001-titmouse-db.postgres.database.azure.com
+  user_name: dhos-medications@uk-nonprod001-titmouse-db
+  su_name: uk-training-base@uk-nonprod001-titmouse-db
+  name: dhos-medications
+
+environment: TRAINING
+imagePullPolicy: IfNotPresent
+imagetag: r1.8.0
+allow_drop_data: false
+host_env: azure
+
+ingress:
+  enabled: true
+  annotations:
+    kubernetes.io/ingress.class: nginx
+  hostName: api-uk-nonprod-upstream.sensynehealth.com # upstream URL

@@ -1,0 +1,4 @@
+apiVersion: v1
+name: dhos-medications-api
+description: DHOS Medications API
+version: 1.0.0

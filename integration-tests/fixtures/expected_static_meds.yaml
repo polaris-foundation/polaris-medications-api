@@ -1,0 +1,972 @@
+# Default medications
+- created: '2020-01-21T17:02:42.562Z'
+  created_by: sys
+  modified: '2020-01-21T17:02:42.562Z'
+  modified_by: sys
+  name: Humulin M3
+  sct_code: '9530701000001100'
+  tags:
+  - gdm-uk-default
+  - dbm-uk-default
+  unit: units
+  uuid: 0a8bb2af-e314-4180-8ac4-fa6a9d7e512b
+- created: '2020-01-21T17:02:42.562Z'
+  created_by: sys
+  modified: '2020-01-21T17:02:42.562Z'
+  modified_by: sys
+  name: Novomix 30
+  sct_code: '9483001000001106'
+  tags:
+  - gdm-uk-default
+  - dbm-uk-default
+  unit: units
+  uuid: f3cf91ed-a04e-48d2-9c8e-02b3492ef23c
+- created: '2020-01-21T17:02:42.562Z'
+  created_by: sys
+  modified: '2020-01-21T17:02:42.562Z'
+  modified_by: sys
+  name: Humulin I
+  sct_code: '9450101000001108'
+  tags:
+  - gdm-uk-default
+  - dbm-uk-default
+  unit: units
+  uuid: 76c88ab6-f38a-4a40-9078-1da50d0b5403
+- created: '2020-01-21T17:02:42.562Z'
+  created_by: sys
+  modified: '2020-01-21T17:02:42.562Z'
+  modified_by: sys
+  name: Insulatard
+  sct_code: '9484401000001103'
+  tags:
+  - gdm-uk-default
+  - dbm-uk-default
+  unit: units
+  uuid: 437b20da-03b5-496e-91fa-727d1a47531a
+- created: '2020-01-21T17:02:42.562Z'
+  created_by: sys
+  modified: '2020-01-21T17:02:42.562Z'
+  modified_by: sys
+  name: Lantus
+  sct_code: '12759201000001105'
+  tags:
+  - gdm-uk-default
+  - gdm-us-default
+  - dbm-uk-default
+  - dbm-us-default
+  unit: units
+  uuid: 23b9d0a3-2982-4479-9b42-29d703058579
+- created: '2020-01-21T17:02:42.562Z'
+  created_by: sys
+  modified: '2020-01-21T17:02:42.562Z'
+  modified_by: sys
+  name: Levemir
+  sct_code: '9520901000001101'
+  tags:
+  - gdm-uk-default
+  - gdm-us-default
+  - dbm-uk-default
+  - dbm-us-default
+  unit: units
+  uuid: aa5d2790-c8d9-4858-a2a2-ffda64c831d6
+- created: '2020-01-21T17:02:42.562Z'
+  created_by: sys
+  modified: '2020-01-21T17:02:42.562Z'
+  modified_by: sys
+  name: Actrapid
+  sct_code: '9196601000001105'
+  tags:
+  - gdm-uk-default
+  - dbm-uk-default
+  unit: units
+  uuid: c28945e5-198e-4ac5-b6ef-813458d1ab9b
+- created: '2020-01-21T17:02:42.562Z'
+  created_by: sys
+  modified: '2020-01-21T17:02:42.562Z'
+  modified_by: sys
+  name: Humulin S
+  sct_code: '9530801000001109'
+  tags:
+  - gdm-uk-default
+  - dbm-uk-default
+  unit: units
+  uuid: 73bb73d9-e892-4fe7-9cd5-d6730899cf6f
+- created: '2020-01-21T17:02:42.562Z'
+  created_by: sys
+  modified: '2020-01-21T17:02:42.562Z'
+  modified_by: sys
+  name: Humalog
+  sct_code: '9538601000001108'
+  tags:
+  - gdm-uk-default
+  - gdm-us-default
+  - dbm-uk-default
+  - dbm-us-default
+  unit: units
+  uuid: 1fdf2331-70f8-483b-867a-9e764e9e91ff
+- created: '2020-01-21T17:02:42.562Z'
+  created_by: sys
+  modified: '2020-01-21T17:02:42.562Z'
+  modified_by: sys
+  name: NovoRapid
+  sct_code: '9518101000001108'
+  tags:
+  - gdm-uk-default
+  - dbm-uk-default
+  unit: units
+  uuid: 69d77158-4f36-4a1e-90e5-f250ea33d4b9
+- created: '2020-01-21T17:02:42.562Z'
+  created_by: sys
+  modified: '2020-01-21T17:02:42.562Z'
+  modified_by: sys
+  name: Metformin
+  sct_code: '109081006'
+  tags:
+  - gdm-uk-default
+  - gdm-us-default
+  - dbm-uk-default
+  - dbm-us-default
+  unit: mg
+  uuid: 0ee36cf8-945b-4b44-848c-2c73e614bb56
+- created: '2020-01-21T17:02:42.562Z'
+  created_by: sys
+  modified: '2020-01-21T17:02:42.562Z'
+  modified_by: sys
+  name: Metformin Slow Release
+  sct_code: '411533003'
+  tags:
+  - gdm-uk-default
+  - dbm-uk-default
+  unit: mg
+  uuid: 9762c971-78a6-47f3-bf29-cbc7c3c68b42
+- created: '2020-01-21T17:02:42.562Z'
+  created_by: sys
+  modified: '2020-01-21T17:02:42.562Z'
+  modified_by: sys
+  name: Fiasp
+  sct_code: '13017301000001108'
+  tags:
+  - gdm-uk-default
+  - dbm-uk-default
+  unit: units
+  uuid: 01a31b69-bff8-4124-bbcc-14587c6c3a2b
+- created: '2020-01-21T17:02:42.562Z'
+  created_by: sys
+  modified: '2020-01-21T17:02:42.562Z'
+  modified_by: sys
+  name: Tresiba
+  sct_code: '11706801000001105'
+  tags:
+  - gdm-uk-default
+  - dbm-uk-default
+  unit: units
+  uuid: e2521f7a-b6ab-4c6d-8f0c-916e405bcb7b
+- created: '2020-01-21T17:02:42.562Z'
+  created_by: sys
+  modified: '2020-04-13T09:57:18.420Z'
+  modified_by: sys
+  name: Humalog Mix25
+  sct_code: '9489901000001108'
+  tags:
+  - gdm-uk-default
+  - dbm-uk-default
+  unit: units
+  uuid: 5350a08a-070f-48e4-b156-3d6f7ab48efa
+- created: '2020-01-21T17:02:42.562Z'
+  created_by: sys
+  modified: '2020-05-07T13:57:10.091Z'
+  modified_by: sys
+  name: Humalog Mix50
+  sct_code: '9512801000001102'
+  tags:
+  - gdm-uk-default
+  - dbm-uk-default
+  unit: units
+  uuid: ed870a96-23df-4177-bb0c-575db80caf6f
+- created: '2020-08-18T06:45:06.364Z'
+  created_by: sys
+  modified: '2020-08-18T06:45:06.364Z'
+  modified_by: sys
+  name: Apidra
+  sct_code: '9211101000001108'
+  tags:
+  - gdm-uk-default
+  - gdm-us-default
+  - dbm-uk-default
+  - dbm-us-default
+  unit: units
+  uuid: 842706c5-a4f4-453e-9e12-bf1ef2602820
+- created: '2020-10-06T10:21:22.365Z'
+  created_by: sys
+  modified: '2020-10-06T10:21:22.365Z'
+  modified_by: sys
+  name: Semglee
+  sct_code: '1327740100000110'
+  tags:
+  - gdm-uk-default
+  - dbm-uk-default
+  unit: units
+  uuid: 878fd365-235a-4db0-a610-13115ce99a21
+- created: '2020-10-06T10:21:22.365Z'
+  created_by: sys
+  modified: '2020-10-06T10:21:22.365Z'
+  modified_by: sys
+  name: Insulin Lispro Sanof
+  sct_code: '35776411000001102'
+  tags:
+  - gdm-uk-default
+  - dbm-uk-default
+  unit: units
+  uuid: ed77a4b7-3dc4-4546-a68b-77bc06764ecd
+- created: '2020-10-06T10:21:22.365Z'
+  created_by: sys
+  modified: '2020-10-06T10:21:22.365Z'
+  modified_by: sys
+  name: Glibenclamide
+  sct_code: '80870001'
+  tags:
+  - gdm-uk-default
+  - dbm-uk-default
+  unit: mg
+  uuid: 367509fd-2fb6-44fe-9330-c9a9f0157aaf
+- created: '2020-10-06T10:21:22.365Z'
+  created_by: sys
+  modified: '2020-10-06T10:21:22.365Z'
+  modified_by: sys
+  name: Abasaglar
+  sct_code: '12608101000001108'
+  tags:
+  - gdm-uk-default
+  - dbm-uk-default
+  unit: units
+  uuid: 81549012-0753-4262-97b4-62b2bb17dc26
+- created: '2020-01-06T14:16:19.287Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:19.287Z'
+  modified_by: sys
+  name: Admelog
+  sct_code: D0000040
+  tags:
+  - gdm-us-default
+  - dbm-us-default
+  unit: units
+  uuid: e04213bf-30fa-4122-83b8-8a74ae31546e
+- created: '2020-01-06T14:16:20.039Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:20.039Z'
+  modified_by: sys
+  name: Basaglar
+  sct_code: D0000041
+  tags:
+  - gdm-us-default
+  - dbm-us-default
+  unit: units
+  uuid: 6cb35129-162d-4319-85df-0b0c0c6ed591
+- created: '2020-01-06T14:16:20.412Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:20.412Z'
+  modified_by: sys
+  name: Diabeta
+  sct_code: D0000042
+  tags:
+  - gdm-us-default
+  - dbm-us-default
+  unit: mg
+  uuid: 39c2c09d-32aa-401c-9081-5c973fe49406
+- created: '2020-01-06T14:16:20.780Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:20.780Z'
+  modified_by: sys
+  name: Fortamet
+  sct_code: D0000043
+  tags:
+  - gdm-us-default
+  - dbm-us-default
+  unit: mg
+  uuid: 99d635a9-1093-409c-8239-743484930298
+- created: '2020-01-06T14:16:21.149Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:21.149Z'
+  modified_by: sys
+  name: Glucophage
+  sct_code: D0000044
+  tags:
+  - gdm-us-default
+  - dbm-us-default
+  unit: mg
+  uuid: 46283178-a81b-46f1-9021-68c353880e7b
+- created: '2020-01-06T14:16:21.524Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:21.524Z'
+  modified_by: sys
+  name: Glyburide
+  sct_code: D0000045
+  tags:
+  - gdm-us-default
+  - dbm-us-default
+  unit: mg
+  uuid: e5e7fca6-109b-4adf-b923-519678bc465e
+- created: '2020-01-06T14:16:21.941Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:21.941Z'
+  modified_by: sys
+  name: Glynase
+  sct_code: D0000046
+  tags:
+  - gdm-us-default
+  - dbm-us-default
+  unit: mg
+  uuid: b8abd84c-7a3f-4ee5-abd2-92c12b5b926e
+- created: '2020-01-06T14:16:22.693Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:22.693Z'
+  modified_by: sys
+  name: Humulin
+  sct_code: D0000048
+  tags:
+  - gdm-us-default
+  - dbm-us-default
+  unit: units
+  uuid: e45e5548-82d6-49c0-b692-aa1ed6ba748e
+- created: '2020-01-06T14:16:23.072Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:23.072Z'
+  modified_by: sys
+  name: Humulin R
+  sct_code: D0000049
+  tags:
+  - gdm-us-default
+  - dbm-us-default
+  unit: units
+  uuid: 4904e36b-5a28-442c-98c7-9474d9627aa5
+- created: '2020-01-06T14:16:24.573Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:24.573Z'
+  modified_by: sys
+  name: Novolin
+  sct_code: D0000050
+  tags:
+  - gdm-us-default
+  - dbm-us-default
+  unit: units
+  uuid: 260b5d81-755e-4a85-abd8-055db8ec2dbb
+- created: '2020-01-06T14:16:24.950Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:24.950Z'
+  modified_by: sys
+  name: Novolin R
+  sct_code: D00000451
+  tags:
+  - gdm-us-default
+  - dbm-us-default
+  unit: units
+  uuid: 9b0579f3-f78e-4f11-9d4c-8ceacd509f54
+- created: '2020-01-06T14:16:25.325Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:25.325Z'
+  modified_by: sys
+  name: NovoLog
+  sct_code: D0000052
+  tags:
+  - gdm-us-default
+  - dbm-us-default
+  unit: units
+  uuid: b776c0a7-cd70-4481-9760-8e085206e696
+# Medications specific to Jefferson - these are separate because they have their own UUIDs.
+- created: '2020-01-06T14:16:19.287Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:19.287Z'
+  modified_by: sys
+  name: Admelog
+  sct_code: D0000040
+  tags:
+  - gdm-jfh
+  - dbm-jfh
+  unit: units
+  uuid: 30ef5abc-b40c-4abe-9125-eb36e9bf9c7b
+- created: '2020-01-06T14:16:19.665Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:19.665Z'
+  modified_by: sys
+  name: Apidra
+  sct_code: '9211101000001108'
+  tags:
+  - gdm-jfh
+  - dbm-jfh
+  unit: units
+  uuid: b58b0112-6b60-4cfb-a02c-07b099868846
+- created: '2020-01-06T14:16:20.039Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:20.039Z'
+  modified_by: sys
+  name: Basaglar
+  sct_code: D0000041
+  tags:
+  - gdm-jfh
+  - dbm-jfh
+  unit: units
+  uuid: 468f2e94-c6ef-4fc7-9753-83be8e515844
+- created: '2020-01-06T14:16:20.412Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:20.412Z'
+  modified_by: sys
+  name: Diabeta
+  sct_code: D0000042
+  tags:
+  - gdm-jfh
+  - dbm-jfh
+  unit: mg
+  uuid: 35ff74b4-f079-4e69-8d00-5699c71d12af
+- created: '2020-01-06T14:16:20.780Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:20.780Z'
+  modified_by: sys
+  name: Fortamet
+  sct_code: D0000043
+  tags:
+  - gdm-jfh
+  - dbm-jfh
+  unit: mg
+  uuid: 506e97f2-a667-4d5e-8230-4e22d947b41c
+- created: '2020-01-06T14:16:21.149Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:21.149Z'
+  modified_by: sys
+  name: Glucophage
+  sct_code: D0000044
+  tags:
+  - gdm-jfh
+  - dbm-jfh
+  unit: mg
+  uuid: c95c564d-8cbf-4ee5-a635-74d44d35eff6
+- created: '2020-01-06T14:16:21.524Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:21.524Z'
+  modified_by: sys
+  name: Glyburide
+  sct_code: D0000045
+  tags:
+  - gdm-jfh
+  - dbm-jfh
+  unit: mg
+  uuid: 84e4c078-b45a-4d18-9323-776134df8493
+- created: '2020-01-06T14:16:21.941Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:21.941Z'
+  modified_by: sys
+  name: Glynase
+  sct_code: D0000046
+  tags:
+  - gdm-jfh
+  - dbm-jfh
+  unit: mg
+  uuid: 2b654abe-1d3c-4f93-a9f2-cd89bf266c54
+- created: '2020-01-06T14:16:22.321Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:22.321Z'
+  modified_by: sys
+  name: Humalog
+  sct_code: D0000047
+  tags:
+  - gdm-jfh
+  - dbm-jfh
+  unit: units
+  uuid: 8908bbf1-17eb-4f14-a598-485b39eae9f4
+- created: '2020-01-06T14:16:22.693Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:22.693Z'
+  modified_by: sys
+  name: Humulin
+  sct_code: D0000048
+  tags:
+  - gdm-jfh
+  - dbm-jfh
+  unit: units
+  uuid: 88864945-f0b6-407b-a0d6-54e8ca619fac
+- created: '2020-01-06T14:16:23.072Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:23.072Z'
+  modified_by: sys
+  name: Humulin R
+  sct_code: D0000049
+  tags:
+  - gdm-jfh
+  - dbm-jfh
+  unit: units
+  uuid: d12b21f7-071a-4edb-b5c6-eea1bd3f83e8
+- created: '2020-01-06T14:16:23.444Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:23.444Z'
+  modified_by: sys
+  name: Lantus
+  sct_code: '12759201000001105'
+  tags:
+  - gdm-jfh
+  - dbm-jfh
+  unit: units
+  uuid: bd83605a-8960-45e1-ac13-d7689d5be2e2
+- created: '2020-01-06T14:16:23.821Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:23.821Z'
+  modified_by: sys
+  name: Levemir
+  sct_code: '9520901000001101'
+  tags:
+  - gdm-jfh
+  - dbm-jfh
+  unit: units
+  uuid: 5a0ef08e-7502-4aaa-adc6-5a2f42a4ef2d
+- created: '2020-01-06T14:16:24.195Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:24.195Z'
+  modified_by: sys
+  name: Metformin
+  sct_code: '109081006'
+  tags:
+  - gdm-jfh
+  - dbm-jfh
+  unit: mg
+  uuid: 22f4c3a7-c102-4b78-afd4-58c55b9ff875
+- created: '2020-01-06T14:16:24.573Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:24.573Z'
+  modified_by: sys
+  name: Novolin
+  sct_code: D0000050
+  tags:
+  - gdm-jfh
+  - dbm-jfh
+  unit: units
+  uuid: 1d2c1342-51aa-4c14-a61b-5f88bc6c17fe
+- created: '2020-01-06T14:16:24.950Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:24.950Z'
+  modified_by: sys
+  name: Novolin R
+  sct_code: D00000451
+  tags:
+  - gdm-jfh
+  - dbm-jfh
+  unit: units
+  uuid: 4eaf51f8-ff2e-4886-95df-3a6fc46797b8
+- created: '2020-01-06T14:16:25.325Z'
+  created_by: sys
+  modified: '2020-01-06T14:16:25.325Z'
+  modified_by: sys
+  name: NovoLog
+  sct_code: D0000052
+  tags:
+  - gdm-jfh
+  - dbm-jfh
+  unit: units
+  uuid: 6b5ab4aa-9f4d-43b3-bde7-d7f04a2d90be
+# Medications specific to US training - these are separate because they have their own UUIDs.
+- created: '2020-01-06T14:15:12.745Z'
+  created_by: sys
+  modified: '2020-01-06T14:15:12.745Z'
+  modified_by: sys
+  name: Admelog
+  sct_code: D0000040
+  tags:
+  - gdm-ustraining
+  - dbm-ustraining
+  unit: units
+  uuid: ba76fdc0-2983-4ee8-ae9b-95175dd43de8
+- created: '2020-01-06T14:15:13.123Z'
+  created_by: sys
+  modified: '2020-01-06T14:15:13.123Z'
+  modified_by: sys
+  name: Apidra
+  sct_code: '9211101000001108'
+  tags:
+  - gdm-ustraining
+  - dbm-ustraining
+  unit: units
+  uuid: 054a7175-13cd-4940-803b-9f99d46124dd
+- created: '2020-01-06T14:15:13.504Z'
+  created_by: sys
+  modified: '2020-01-06T14:15:13.504Z'
+  modified_by: sys
+  name: Basaglar
+  sct_code: D0000041
+  tags:
+  - gdm-ustraining
+  - dbm-ustraining
+  unit: units
+  uuid: 0c11ebb5-eafa-49cc-ab95-16851c8dd68d
+- created: '2020-01-06T14:15:13.890Z'
+  created_by: sys
+  modified: '2020-01-06T14:15:13.890Z'
+  modified_by: sys
+  name: Diabeta
+  sct_code: D0000042
+  tags:
+  - gdm-ustraining
+  - dbm-ustraining
+  unit: mg
+  uuid: e4493c2f-ada7-4d4a-a1e9-274b25414eb8
+- created: '2020-01-06T14:15:14.268Z'
+  created_by: sys
+  modified: '2020-01-06T14:15:14.268Z'
+  modified_by: sys
+  name: Fortamet
+  sct_code: D0000043
+  tags:
+  - gdm-ustraining
+  - dbm-ustraining
+  unit: mg
+  uuid: e6344156-da0c-49b1-9d26-ed61e3e7731f
+- created: '2020-01-06T14:15:14.653Z'
+  created_by: sys
+  modified: '2020-01-06T14:15:14.653Z'
+  modified_by: sys
+  name: Glucophage
+  sct_code: D0000044
+  tags:
+  - gdm-ustraining
+  - dbm-ustraining
+  unit: mg
+  uuid: d31953a6-d611-4851-91d1-34015a840e83
+- created: '2020-01-06T14:15:15.035Z'
+  created_by: sys
+  modified: '2020-01-06T14:15:15.035Z'
+  modified_by: sys
+  name: Glyburide
+  sct_code: D0000045
+  tags:
+  - gdm-ustraining
+  - dbm-ustraining
+  unit: mg
+  uuid: 9eff8559-fff2-46d3-a7f3-e5f32ffd9018
+- created: '2020-01-06T14:15:15.411Z'
+  created_by: sys
+  modified: '2020-01-06T14:15:15.411Z'
+  modified_by: sys
+  name: Glynase
+  sct_code: D0000046
+  tags:
+  - gdm-ustraining
+  - dbm-ustraining
+  unit: mg
+  uuid: aa900b3e-ec08-4402-8334-be32ab4f5d88
+- created: '2020-01-06T14:15:15.789Z'
+  created_by: sys
+  modified: '2020-01-06T14:15:15.789Z'
+  modified_by: sys
+  name: Humalog
+  sct_code: D0000047
+  tags:
+  - gdm-ustraining
+  - dbm-ustraining
+  unit: units
+  uuid: 87093c45-6618-44bd-bbe7-b261fd957c8f
+- created: '2020-01-06T14:15:16.175Z'
+  created_by: sys
+  modified: '2020-01-06T14:15:16.175Z'
+  modified_by: sys
+  name: Humulin
+  sct_code: D0000048
+  tags:
+  - gdm-ustraining
+  - dbm-ustraining
+  unit: units
+  uuid: be16e1cd-9edf-4b31-ad06-e52daa0668aa
+- created: '2020-01-06T14:15:16.570Z'
+  created_by: sys
+  modified: '2020-01-06T14:15:16.570Z'
+  modified_by: sys
+  name: Humulin R
+  sct_code: D0000049
+  tags:
+  - gdm-ustraining
+  - dbm-ustraining
+  unit: units
+  uuid: 4029ac6d-cf1f-47e1-97aa-0d66c386a3b4
+- created: '2020-01-06T14:15:16.959Z'
+  created_by: sys
+  modified: '2020-01-06T14:15:16.959Z'
+  modified_by: sys
+  name: Lantus
+  sct_code: '12759201000001105'
+  tags:
+  - gdm-ustraining
+  - dbm-ustraining
+  unit: units
+  uuid: 4f41120a-da2e-4a28-852a-cae566abb7d5
+- created: '2020-01-06T14:15:17.356Z'
+  created_by: sys
+  modified: '2020-01-06T14:15:17.356Z'
+  modified_by: sys
+  name: Levemir
+  sct_code: '9520901000001101'
+  tags:
+  - gdm-ustraining
+  - dbm-ustraining
+  unit: units
+  uuid: 11a5d370-af97-4b40-9d62-f2baf98f6f48
+- created: '2020-01-06T14:15:17.742Z'
+  created_by: sys
+  modified: '2020-01-06T14:15:17.742Z'
+  modified_by: sys
+  name: Metformin
+  sct_code: '109081006'
+  tags:
+  - gdm-ustraining
+  - dbm-ustraining
+  unit: mg
+  uuid: 83101782-7f6d-423d-b63b-e1783818f1ed
+- created: '2020-01-06T14:15:18.129Z'
+  created_by: sys
+  modified: '2020-01-06T14:15:18.129Z'
+  modified_by: sys
+  name: Novolin
+  sct_code: D0000050
+  tags:
+  - gdm-ustraining
+  - dbm-ustraining
+  unit: units
+  uuid: 12dcdd97-f721-4a92-a8a3-9ab5e42493e4
+- created: '2020-01-06T14:15:18.509Z'
+  created_by: sys
+  modified: '2020-01-06T14:15:18.510Z'
+  modified_by: sys
+  name: Novolin R
+  sct_code: D00000451
+  tags:
+  - gdm-ustraining
+  - dbm-ustraining
+  unit: units
+  uuid: 84390ff6-58d2-494b-bb6b-1660a012ca83
+- created: '2020-01-06T14:15:18.892Z'
+  created_by: sys
+  modified: '2020-01-06T14:15:18.892Z'
+  modified_by: sys
+  name: NovoLog
+  sct_code: D0000052
+  tags:
+  - gdm-ustraining
+  - dbm-ustraining
+  unit: units
+  uuid: 228c1d00-f489-4614-9393-c8454ead087d
+- created: '2020-12-17T17:30:00.000Z'
+  created_by: sys
+  modified: '2020-12-17T17:30:00.000Z'
+  modified_by: sys
+  name: Toujeo
+  sct_code: '12471501000001100'
+  tags:
+  - gdm-uk-default
+  - gdm-us-default
+  - dbm-uk-default
+  unit: units
+  uuid: df52fd5d-3114-4e35-bb44-9acb1ce9f9cd
+- created: '2020-12-17T17:30:00.000Z'
+  created_by: sys
+  modified: '2020-12-17T17:30:00.000Z'
+  modified_by: sys
+  name: Linagliptin
+  sct_code: '703667006'
+  tags:
+  - dbm-uk-default
+  unit: mg
+  uuid: 55d2a111-8f3f-4275-8146-c37e6e0ab0cd
+- created: '2020-12-17T17:30:00.000Z'
+  created_by: sys
+  modified: '2020-12-17T17:30:00.000Z'
+  modified_by: sys
+  name: Sitagliptin
+  sct_code: '424106006'
+  tags:
+  - dbm-uk-default
+  unit: mg
+  uuid: a0a04a3e-a579-453e-877a-579fe36b56eb
+- created: '2020-12-17T17:30:00.000Z'
+  created_by: sys
+  modified: '2020-12-17T17:30:00.000Z'
+  modified_by: sys
+  name: Metformin MR
+  sct_code: '39113511000001101'
+  tags:
+  - dbm-uk-default
+  unit: mg
+  uuid: 1ec81ede-3397-4904-a3f7-8f051204ab93
+- created: '2020-12-17T17:30:00.000Z'
+  created_by: sys
+  modified: '2020-12-17T17:30:00.000Z'
+  modified_by: sys
+  name: Gliclazide
+  sct_code: '325238000'
+  tags:
+  - dbm-uk-default
+  unit: mg
+  uuid: e43ec98f-90dc-4f4b-8aad-f8cb370fbd16
+- created: '2020-12-17T17:30:00.000Z'
+  created_by: sys
+  modified: '2020-12-17T17:30:00.000Z'
+  modified_by: sys
+  name: Glipizide
+  sct_code: '26124005'
+  tags:
+  - dbm-uk-default
+  unit: mg
+  uuid: f1b2cf0a-6512-41b6-9e53-fa11ad56bb5e
+- created: '2020-12-17T17:30:00.000Z'
+  created_by: sys
+  modified: '2020-12-17T17:30:00.000Z'
+  modified_by: sys
+  name: Repaglinide
+  sct_code: '109074004'
+  tags:
+  - dbm-uk-default
+  unit: mg
+  uuid: 2bc09f4d-d64f-4a8f-a429-96d43800cccd
+- created: '2020-12-17T17:30:00.000Z'
+  created_by: sys
+  modified: '2020-12-17T17:30:00.000Z'
+  modified_by: sys
+  name: Nateglinide
+  sct_code: '134604002'
+  tags:
+  - dbm-uk-default
+  unit: mg
+  uuid: a4dc9015-8377-4d4a-bd40-06d7ad158c11
+- created: '2020-12-17T17:30:00.000Z'
+  created_by: sys
+  modified: '2020-12-17T17:30:00.000Z'
+  modified_by: sys
+  name: Dapagliflozin
+  sct_code: '703678003'
+  tags:
+  - dbm-uk-default
+  unit: mg
+  uuid: f326bd82-a8db-4611-8a46-b326c5f00d25
+- created: '2020-12-17T17:30:00.000Z'
+  created_by: sys
+  modified: '2020-12-17T17:30:00.000Z'
+  modified_by: sys
+  name: Empagliflozin
+  sct_code: '703895009'
+  tags:
+  - dbm-uk-default
+  unit: mg
+  uuid: 1afd4b28-596c-4930-980f-de126460ba0a
+- created: '2020-12-17T17:30:00.000Z'
+  created_by: sys
+  modified: '2020-12-17T17:30:00.000Z'
+  modified_by: sys
+  name: Canagliflozin
+  sct_code: '703681008'
+  tags:
+  - dbm-uk-default
+  unit: mg
+  uuid: 450c9a8b-d438-4893-9f01-856bd952560d
+- created: '2020-12-17T17:30:00.000Z'
+  created_by: sys
+  modified: '2020-12-17T17:30:00.000Z'
+  modified_by: sys
+  name: Bydureon
+  sct_code: '10981401000001101'
+  tags:
+  - dbm-uk-default
+  unit: mg
+  uuid: 5e500cd5-5358-4f27-b4b9-5d1bdd9ac30e
+- created: '2020-12-17T17:30:00.000Z'
+  created_by: sys
+  modified: '2020-12-17T17:30:00.000Z'
+  modified_by: sys
+  name: Byetta
+  sct_code: '9228901000001108'
+  tags:
+  - dbm-uk-default
+  unit: mg
+  uuid: a9cd170e-497b-40ce-a1c4-23585c512ab7
+- created: '2020-12-17T17:30:00.000Z'
+  created_by: sys
+  modified: '2020-12-17T17:30:00.000Z'
+  modified_by: sys
+  name: Liraglutide
+  sct_code: '444907006'
+  tags:
+  - dbm-uk-default
+  unit: mg
+  uuid: 69127895-32de-415b-b7b6-1b6ca08b77ed
+- created: '2020-12-17T17:30:00.000Z'
+  created_by: sys
+  modified: '2020-12-17T17:30:00.000Z'
+  modified_by: sys
+  name: Dulaglutide
+  sct_code: '714081009'
+  tags:
+  - dbm-uk-default
+  unit: mg
+  uuid: 32b6ea55-f055-4d61-a7e9-8c65c4f6104a
+- created: '2020-12-17T17:30:00.000Z'
+  created_by: sys
+  modified: '2020-12-17T17:30:00.000Z'
+  modified_by: sys
+  name: Semaglutide
+  sct_code: '36491911000001102'
+  tags:
+  - dbm-uk-default
+  unit: mg
+  uuid: fb34cdb0-b057-4a61-8a98-6e5b815d75bf
+- created: '2021-02-04T13:00:00.000Z'
+  created_by: sys
+  modified: '2021-02-04T13:00:00.000Z'
+  modified_by: sys
+  name: 'Humalog U-200'
+  sct_code: '28989711000001106'
+  tags:
+    - gdm-uk-default
+  unit: 'units/mL'
+  uuid: 4712ec21-e972-466b-a1d7-3e396ce137e3
+- created: '2021-10-14T13:00:00.000Z'
+  created_by: sys
+  modified: '2021-10-14T13:00:00.000Z'
+  modified_by: sys
+  name: 'Lyumjev'
+  sct_code: '227391000001107'
+  tags:
+    - gdm-uk-default
+    - gdm-us-default
+    - dbm-uk-default
+    - dbm-us-default
+  unit: 'unit'
+  uuid: c90bb151-dff8-4995-ae43-f60fe1058f7b
+- created: '2021-11-04T13:00:00.000Z'
+  created_by: sys
+  modified: '2021-11-04T13:00:00.000Z'
+  modified_by: sys
+  name: 'Insuman Basal'
+  sct_code: '9484501000001104'
+  tags:
+    - gdm-uk-default
+    - gdm-us-default
+    - dbm-uk-default
+    - dbm-us-default
+  unit: 'unit'
+  uuid: 8a4de841-ebcd-4652-9c56-6c146aa574ec
+- created: '2021-11-24T13:00:00.000Z'
+  created_by: sys
+  modified: '2021-11-24T13:00:00.000Z'
+  modified_by: sys
+  name: 'Trurapi'
+  sct_code: '94371000001104'
+  tags:
+    - gdm-uk-default
+    - gdm-us-default
+    - dbm-uk-default
+    - dbm-us-default
+  unit: 'unit'
+  uuid: af0e61a3-18e4-4547-9e69-3a7d1f219c54
+- created: '2022-03-07T13:00:00.000Z'
+  created_by: sys
+  modified: '2022-03-07T13:00:00.000Z'
+  modified_by: sys
+  name: 'Admelog'
+  sct_code: '155181000001100'
+  tags:
+    - gdm-uk-default
+    - dbm-uk-default
+  unit: 'units'
+  uuid: cda6ca7d-6d64-4a6e-a5d2-c7e045f92f5c

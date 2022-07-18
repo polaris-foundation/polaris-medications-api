@@ -1,0 +1,15 @@
+database:
+  host: uk-prod006-hog-db.postgres.database.azure.com
+  user_name: dhos-medications@uk-prod006-hog-db
+  su_name: postgres@uk-prod006-hog-db
+  name: dhos-medications
+
+environment: PRODUCTION
+imagePullPolicy: IfNotPresent
+# This placeholder value gets overridden by devops-release-config-prod during a release
+imagetag: r1.8.0
+allow_drop_data: false
+host_env: azure
+
+ingress:
+  hostName: api-prod.sensynehealth.local

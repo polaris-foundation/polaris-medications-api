@@ -1,0 +1,15 @@
+database:
+  host: us-dev-upstream-api001-goldfish-db.postgres.database.azure.com
+  user_name: dhos-medications@us-dev-upstream-api001-goldfish-db
+  su_name: postgres@us-dev-upstream-api001-goldfish-db
+  name: dhos-medications
+
+environment: DEVELOPMENT
+imagePullPolicy: IfNotPresent
+# This placeholder value gets overridden by devops-release-config-prod during a release
+imagetag: r1.12.0
+allow_drop_data: false
+host_env: azure
+
+ingress:
+  hostName: api-dev.sensynehealth.local
