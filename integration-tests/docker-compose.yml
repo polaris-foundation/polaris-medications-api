@@ -10,8 +10,6 @@ services:
     container_name: "dhos-medications-integration-tests"
     build:
       context: .
-      args:
-        - PIP_EXTRA_INDEX_URL
     environment:
       <<: *COMMON_ENVIRONMENT
       BEHAVE_ARGS: ${BEHAVE_ARGS:-}
@@ -30,8 +28,6 @@ services:
     container_name: "dhos-medications-api"
     build:
       context: ../
-      args:
-        - GEMFURY_DOWNLOAD_KEY
     environment:
       <<: *COMMON_ENVIRONMENT
       DATABASE_HOST: dhos-medications-api-db
