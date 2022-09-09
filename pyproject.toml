@@ -1,14 +1,10 @@
 [tool.poetry]
 name = "dhos-medications-api"
 version = "0.0.1"
-description = "API application for managing medications in DHOS"
+description = "API application for managing medications in Polaris"
 authors = ["Andrew Gill <andrew.gill@sensynehealth.com>"]
-keywords = ["Medications", "Medicine"]
-repository = "https://github.com/draysontechnologies/dhos-medications-api"
-
-[[tool.poetry.source]]
-name = "sensynehealth"
-url = "https://pypi.fury.io/sensynehealth/"
+keywords = ["Medications", "Medicine", "Polaris"]
+repository = "https://github.com/polaris-foundation/polaris-medications-api"
 
 [tool.poetry.dependencies]
 python = "^3.9"
